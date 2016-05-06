@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Vocabulary</string>
+    <string name="action_settings">Login</string>
+    <string name="action_search">Search</string>
+    <string name="activity_login">Login</string>
+    <string name="title_activity_sign_up">SignUp</string>
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_main">Vocabulary</string>
+    <string name="Email">editText4</string>
+    <string name="err_msg_name">Enter your full name</string>
+    <string name="err_msg_email">Enter valid email address</string>
+    <string name="err_msg_password">Enter the password</string>
+    <string name="err_msg_confirm_password">Enter the password</string>
+    <string name="title_activity_search_result">SearchResultActivity</string>
+    <string name="search_hint">search</string>
+    <string name="search_result">search</string>
+</resources>
